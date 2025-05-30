@@ -53,4 +53,6 @@ Install my-project with npm
   streamlit run app.py
 
 ```
+## Demo Video of App :
+https://drive.google.com/file/d/1JJb-BVRT_mQvdC3voKgvm6VU54jLnjeW/view?usp=sharing
     
